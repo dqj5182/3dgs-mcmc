@@ -112,7 +112,7 @@ Running code is similar to the [Original 3DGS code base](https://github.com/grap
 
 ## How to Reproduce the Results in the Paper
 ```sh
-python train.py --source_path PATH/TO/Shape --config configs/shape.json --eval
+python train.py --source_path datasets/tandt/train --config configs/train.json --eval
 ```
 
 
